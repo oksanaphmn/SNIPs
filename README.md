@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/StarkNet%20Community%20Forum-5C4C9F?style=for-the-badge&logo=startrek&logoColor=white">
     </a>
     <a href="https://x.com/intent/follow?screen_name=StarknetFndn">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+        <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
       <br />
   <a href="https://github.com/starknet-io/SNIPs/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
